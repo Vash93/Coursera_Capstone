@@ -1,3 +1,3 @@
 # Coursera_Capstone
 
-Let's finish it fast
+This Repositary will be employed only to do this Capstone project...yeee
